@@ -1,0 +1,11 @@
+section#regiao-p{
+	width:1000px;
+	margin: auto;
+}
+iframe#janela{
+	border: none;
+	margin-bottom:150px;
+	background-color:#FFF5EE;
+	width:500px;
+	height:280px;
+}
